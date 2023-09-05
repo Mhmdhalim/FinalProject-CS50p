@@ -61,8 +61,6 @@ def welcome_to_the_customer():
 
 
 # Check
-
-
 def return_services():
     global check
     if check:
@@ -183,7 +181,7 @@ Please type Y for YES or N for NO.
         again_calculator()
 
 
-# CALCULATE THE IDEAL WEIGHT FOR HEIGHT
+# CALCULATE THE IDEAL WEIGHT
 def ideal_weight_for_height():
     print("Welcome, Please fill the following:")
     # check gender
@@ -236,8 +234,6 @@ Please type Y for YES or N for NO.
 
 
 a = True
-
-
 # FRUITS AND VEGATABLES MARKET
 def fruits_vegatables_market():
     global a
