@@ -31,6 +31,7 @@ You can choose any number of t-shirts and be charged for it at the cashier.
 This market displays a different types of fruits and vegatables.
 You can choose any number of piece and be charged for it at the cashier.
 ### Libraries
-sys, csv, cowsay, pyTextColor, tabulate from tabulate
+sys, csv, cowsay, pyTextColor, tabulate from tabulate.
+[Link for Python 3](https://docs.python.org/3/library/stdtypes.html#string-methods)
 #### THIS IS [CS50P](https://cs50.harvard.edu/python/)
 > Walla 😂😂
