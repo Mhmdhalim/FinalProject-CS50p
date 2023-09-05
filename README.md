@@ -1,6 +1,5 @@
 # CS50P
 Hi, This is my final CS50P project written entirely in Python.
-
 # Parts of project
 ### First Part: Calculator 
 Calculator takes any number of numbers and can add or substarct or multi or divide them.
@@ -19,6 +18,5 @@ You can choose any number of t-shirts and be charged for it at the cashier.
 ### Forth Part: Fruits and Vegatables market
 This market displays a different types of fruits and vegatables.
 You can choose any number of piece and be charged for it at the cashier.
-
-Walla 😂😂
 #### THIS IS CS50P
+Walla 😂😂
