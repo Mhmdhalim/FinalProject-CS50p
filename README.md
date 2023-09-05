@@ -1,6 +1,18 @@
 # CS50P
 Hi, This is my final CS50P project written entirely in Python.
 # Parts of project
+<details>
+<summary>SERVICES</summary>
+
+| Rank | SERVICES |
+|-----:|-----------|
+|     1| Calculator|
+|     2| ideal weight    |
+|     3| T-Shirt market       |
+|     4| Fruits and Vegatables market|
+
+</details>
+
 ### First Part: Calculator 
 Calculator takes any number of numbers and can add or substarct or multi or divide them.
 For example: If I entered 4 numbers: 4 12 6 8.
