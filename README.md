@@ -25,13 +25,13 @@ This part takes gender, age and height to these equations:
 - For male: 50 + 0.91 * (Height - 152.4) - (Age - 20) * 0.66.
 - For female: 45.5 + 0.91 * (Height - 152.4) - (Age - 20) * 0.66.
 ### Third Part: T-Shirt market
-This market displays a different types of t-shirts.
+This market displays a different types of t-shirts.__
 You can choose any number of t-shirts and be charged for it at the cashier.
 ### Forth Part: Fruits and Vegatables market
-This market displays a different types of fruits and vegatables.
+This market displays a different types of fruits and vegatables.__
 You can choose any number of piece and be charged for it at the cashier.
 ### Libraries
-sys, csv, cowsay, pyTextColor, tabulate from tabulate.
-[Link for Python 3](https://docs.python.org/3/library/stdtypes.html#string-methods)
+I used sys, csv, cowsay, pyTextColor and tabulate from tabulate.__
+[Python 3](https://docs.python.org/3/library/stdtypes.html#string-methods)
 #### THIS IS [CS50P](https://cs50.harvard.edu/python/)
 > Walla 😂😂
