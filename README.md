@@ -10,8 +10,8 @@ or choose * for multipication, The result = 2304
 or choose / for divide, The result = 0.00694
 ### Secound Part: Calculate the ideal weight for height
 This part takes gender, age and height to these equations:
-For male: 50 + 0.91 * (Height - 152.4) - (Age - 20) * 0.66
-For female: 45.5 + 0.91 * (Height - 152.4) - (Age - 20) * 0.66
+For male: 50 + 0.91 * (Height - 152.4) - (Age - 20) * 0.66.
+For female: 45.5 + 0.91 * (Height - 152.4) - (Age - 20) * 0.66.
 ### Third Part: T-Shirt market
 This market displays a different types of t-shirts.
 You can choose any number of t-shirts and be charged for it at the cashier.
