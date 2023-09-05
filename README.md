@@ -16,10 +16,10 @@ Hi, This is my final CS50P project written entirely in Python.
 ### First Part: Calculator 
 Calculator takes any number of numbers and can add or substarct or multi or divide them.
 For example: If I entered 4 numbers: 4 12 6 8.
-* choose + for add, The result = 30
-* choose - for substract, The result = -22
-* choose * for multipication, The result = 2304
-* choose / for divide, The result = 0.00694
+1. choose + for add, The result = 30
+2. choose - for substract, The result = -22
+3. choose * for multipication, The result = 2304
+4. choose / for divide, The result = 0.00694
 ### Secound Part: Calculate the ideal weight
 This part takes gender, age and height to these equations:
 - For male: 50 + 0.91 * (Height - 152.4) - (Age - 20) * 0.66.
