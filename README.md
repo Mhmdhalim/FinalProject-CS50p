@@ -1,4 +1,6 @@
-# CS50P
+# CS50P Final Project
+#### Video Demo: [link](https://youtu.be/Il8yamizxbc?si=0qB3tD-uiQt2xXSZ)
+#### Description
 Hi, This is my final CS50P project written entirely in Python.
 # Parts of project
 <details>
